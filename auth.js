@@ -1,3 +1,5 @@
+// Login authentication function for QE pipeline
+
 function login(username, password) {
   // Tài khoản bị khóa
   if (username === "locked") {
